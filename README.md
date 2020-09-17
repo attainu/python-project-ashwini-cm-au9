@@ -13,7 +13,7 @@ Approach and Implementation:
 
 	Below listed libraries were imported
 
-•	import SYS - to achieve the list of command line arguments passed to a Python     script
+•	import SYS - to achieve the list of command line arguments passed to a Python script
 •	import OS - to get, create, scan all the files from the directories
 •	Import DATETIME - Module for getting the Modification Timestamp
 
